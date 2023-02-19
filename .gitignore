@@ -1,0 +1,17 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
+.yarn/*
+*.DS_Store
+
+# IDE & Editors
+.idea
+.vscode
+.vscode/*
+.vsix
+.history
